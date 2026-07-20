@@ -2,7 +2,7 @@ Section 8: Industry Impact
 
 Mean Earnings
 
-The Industry Impact: Mean Earnings section produces 1 AI response and 1 visualization. 
+The Industry Impact: Mean Earnings section produces 1 AI response and 1 visualization.
 
 Mean earnings data is available at the city level.
 
@@ -18,7 +18,7 @@ Source: Lightcast <MMM YYYY>
 
 Jobs
 
-The Industry Impact: Jobs section produces 1 AI response and 1 visualization. 
+The Industry Impact: Jobs section produces 1 AI response and 1 visualization.
 
 Mean earnings data is available at the city level.
 
